@@ -19,4 +19,14 @@
         "branch": "CSE",
         "semester": "4th"
     }
+    ,{
+        "name": "John Smith",
+        "branch": "IT",
+        "semester": "6th"
+    }
+    ,{
+        "name": "Veronica",
+        "branch": "IT",
+        "semester": "4th"
+    }
 ]
